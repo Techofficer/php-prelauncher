@@ -4,7 +4,7 @@
     "homepage": "http://github.com/techofficer/php-prelauncher",
     "license": "MIT",
     "keywords": ["prelauncher", "api", "prelaunchr"],
-    "version": "1.0.1",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Prelauncher",
