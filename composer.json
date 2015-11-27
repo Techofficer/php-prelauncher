@@ -1,7 +1,7 @@
 {
-    "name": "prelauncher/prelauncher",
+    "name": "techofficer/prelauncher",
     "description": "Client for Prelauncher API",
-    "homepage": "http://github.com/prelauncher/prelauncher-php",
+    "homepage": "http://github.com/techofficer/php-prelauncher",
     "license": "MIT",
     "keywords": ["prelauncher", "api", "prelaunchr"],
     "version": "1.0.1",

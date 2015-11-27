@@ -31,7 +31,7 @@ Require prelauncher in your `composer.json`:
 ```javascript
 {
     "require": {
-        "prelauncher/prelauncher": "1.*"
+        "techofficer/prelauncher": "1.*"
     }
 }
 ```
