@@ -1,6 +1,6 @@
 # Prelauncher
 
-Pre-launch website builder which helps new online store owners to easily build a viral pre-launch website and start referral prelaunch campaign. No coding skills required.
+[Prelauncher.info](http://prelauncher.info) - prelaunch website builder which helps new online store owners to easily build a viral pre-launch website and start referral prelaunch campaign. No coding skills required.
 
 
 The design of this library was heavily influenced by [Httpful](https://github.com/nategood/httpful).
