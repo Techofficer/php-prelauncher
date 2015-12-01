@@ -6,7 +6,7 @@ class Settings
 {
     const VERSION = '1.0.0';
 
-    public static $url_root = 'http://api.prelauncher.io:3000/companies/',
+    public static $url_root = 'http://api.prelauncher.info/companies/',
                   $api_key = null,
                   $agent = 'prelauncher-php',
                   $version = Settings::VERSION,
